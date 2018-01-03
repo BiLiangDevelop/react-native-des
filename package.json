@@ -1,10 +1,70 @@
 {
-  "name": "@remobile/react-native-des",
-  "version": "1.0.6",
+  "_args": [
+    [
+      {
+        "raw": "@remobile/react-native-des@^1.0.4",
+        "scope": "@remobile",
+        "escapedName": "@remobile%2freact-native-des",
+        "name": "@remobile/react-native-des",
+        "rawSpec": "^1.0.4",
+        "spec": ">=1.0.4 <2.0.0",
+        "type": "range"
+      },
+      "/Users/pzzh/Desktop/StarCloud/starCloudApp"
+    ]
+  ],
+  "_cnpm_publish_time": 1487734942289,
+  "_from": "@remobile/react-native-des@>=1.0.4 <2.0.0",
+  "_id": "@remobile/react-native-des@1.0.4",
+  "_inCache": true,
+  "_location": "/@remobile/react-native-des",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/react-native-des-1.0.4.tgz_1487734942049_0.3909589562099427"
+  },
+  "_npmUser": {
+    "name": "remobile",
+    "email": "42550564@qq.com"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@remobile/react-native-des@^1.0.4",
+    "scope": "@remobile",
+    "escapedName": "@remobile%2freact-native-des",
+    "name": "@remobile/react-native-des",
+    "rawSpec": "^1.0.4",
+    "spec": ">=1.0.4 <2.0.0",
+    "type": "range"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npm.taobao.org/@remobile/react-native-des/download/@remobile/react-native-des-1.0.4.tgz",
+  "_shasum": "9a11e119c19b50bbbf4916ceea90b1161f8973c7",
+  "_shrinkwrap": null,
+  "_spec": "@remobile/react-native-des@^1.0.4",
+  "_where": "/Users/pzzh/Desktop/StarCloud/starCloudApp",
+  "author": {
+    "name": "YunJiang.Fang",
+    "email": "42550564@qq.com"
+  },
+  "bugs": {
+    "url": "https://github.com/remobile/react-native-des/issues"
+  },
+  "dependencies": {},
   "description": "A des crypto for react-native",
-  "main": "index.js",
-  "author": "YunJiang.Fang <42550564@qq.com>",
-  "license": "MIT",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "9a11e119c19b50bbbf4916ceea90b1161f8973c7",
+    "size": 33279,
+    "noattachment": false,
+    "tarball": "http://registry.npm.taobao.org/@remobile/react-native-des/download/@remobile/react-native-des-1.0.4.tgz"
+  },
+  "gitHead": "c773dcd60f45e6f748a0545503390a1baa6df629",
+  "homepage": "https://github.com/remobile/react-native-des",
   "keywords": [
     "react-native",
     "react-component",
@@ -15,15 +75,22 @@
     "remobile",
     "mobile"
   ],
-  "homepage": "https://github.com/remobile/react-native-des",
-  "bugs": {
-    "url": "https://github.com/remobile/react-native-des/issues"
-  },
+  "license": "MIT",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "remobile",
+      "email": "42550564@qq.com"
+    }
+  ],
+  "name": "@remobile/react-native-des",
+  "optionalDependencies": {},
+  "publish_time": 1487734942289,
+  "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
     "url": "git://github.com/remobile/react-native-des.git"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  }
+  "scripts": {},
+  "version": "1.0.4"
 }
